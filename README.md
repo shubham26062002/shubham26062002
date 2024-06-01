@@ -6,7 +6,11 @@
 
 🌟 Let's collaborate and build something amazing together! Feel free to explore my repositories and reach out for any exciting projects or opportunities. Cheers!
 
+<br />
+
 ![Shubham Patel](./assets/images/hero.jpg)
+
+<br />
 
 ## 💡 I code using
 
